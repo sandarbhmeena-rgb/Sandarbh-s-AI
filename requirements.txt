@@ -1,0 +1,8 @@
+streamlit
+ollama
+ddgs
+requests
+beautifulsoup4
+google-genai
+python-dotenv
+wikipedia

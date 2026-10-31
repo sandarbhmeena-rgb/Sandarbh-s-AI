@@ -1,0 +1,24 @@
+
+# Secret API keys
+.env
+.env.*
+
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# VS Code settings
+.vscode/
+
+# Database files (may contain private memories)
+database/*.db
+database/*.sqlite
+database/*.sqlite3
+
+# Temporary files
+*.log
+.DS_Store
